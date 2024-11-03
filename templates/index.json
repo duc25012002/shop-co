@@ -1,0 +1,287 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main_banner_GHHeKg": {
+      "type": "main-banner",
+      "blocks": {
+        "text_block_f9ReQ4": {
+          "type": "text-block",
+          "settings": {
+            "text": "<p>FIND CLOTHES THAT MATCHES YOUR STYLE</p>",
+            "font_size": 100,
+            "font_weight": 700,
+            "text_color": "#000000",
+            "text_position": "left",
+            "t_w": 50,
+            "p_y": 50
+          }
+        },
+        "text_block_XyccJW": {
+          "type": "text-block",
+          "settings": {
+            "text": "<p>Browse through our diverse range of meticulously crafted garments, designed to bring out your individuality and cater to your sense of style.</p>",
+            "font_size": 34,
+            "font_weight": 300,
+            "text_color": "#000000",
+            "text_position": "left",
+            "t_w": 50,
+            "p_y": 50
+          }
+        },
+        "achivement_caTi3t": {
+          "type": "achivement",
+          "settings": {
+            "number-brand": 200,
+            "text-brand": "International Brands",
+            "number-quality": 2000,
+            "text-quality": "High-Quality Products",
+            "number-customer": 30000,
+            "text-customer": "Happy Customers"
+          }
+        },
+        "button_block_EQA8M8": {
+          "type": "button-block",
+          "settings": {
+            "button-text": "Shop",
+            "button-color": "#121212",
+            "button-text-color": "#f3f3f3",
+            "button-width": "15%",
+            "button-height": 60,
+            "button-radius": 40,
+            "button-posittion-vertical": 60,
+            "button-posittion-horizontal": 0
+          }
+        }
+      },
+      "block_order": [
+        "text_block_f9ReQ4",
+        "text_block_XyccJW",
+        "achivement_caTi3t",
+        "button_block_EQA8M8"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/header-image.png",
+        "p-l-item": 60
+      }
+    },
+    "featured_logo_En8LCF": {
+      "type": "featured-logo",
+      "blocks": {
+        "logo_NKiaag": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/ck.svg"
+          }
+        },
+        "logo_TwzNKA": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/prada.svg"
+          }
+        },
+        "logo_WhxKqT": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/gucci.svg"
+          }
+        },
+        "logo_QgtWdP": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/zara.svg"
+          }
+        },
+        "logo_Vahp3J": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/versace.svg"
+          }
+        }
+      },
+      "block_order": [
+        "logo_NKiaag",
+        "logo_TwzNKA",
+        "logo_WhxKqT",
+        "logo_QgtWdP",
+        "logo_Vahp3J"
+      ],
+      "settings": {
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>NEW ARRIVALS</strong>",
+        "heading_size": "h1",
+        "s_p_header": "center",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "home-collection",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 88,
+        "padding_bottom": 36,
+        "cb_hr": false
+      }
+    },
+    "featured_collection_ef6YF4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>TOP SELLING</strong>",
+        "heading_size": "h1",
+        "s_p_header": "center",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "top-selling",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "cb_hr": true
+      }
+    },
+    "featured_collection_list_HMLpRD": {
+      "type": "featured-collection-list",
+      "blocks": {
+        "text_block_3J39ML": {
+          "type": "text-block",
+          "settings": {
+            "text": "<p>BROWSE BY DRESS STYLE</p>",
+            "font_size": 48,
+            "font_weight": 700,
+            "text_color": "",
+            "text_position": "center",
+            "t_w": 100,
+            "p_y": 50
+          }
+        },
+        "image_group_g6nbb6": {
+          "type": "image-group",
+          "settings": {
+          },
+          "blocks": {
+            "image_block_gWMhHK": {
+              "type": "image-block",
+              "settings": {
+                "image_picker": "shopify://shop_images/c-l-casual_14396d79-3d2c-43e4-aac8-c56e0f3198f6.png",
+                "percent_item_setting": 30,
+                "b_r_image": 20
+              }
+            },
+            "image_block_FrX4Ni": {
+              "type": "image-block",
+              "settings": {
+                "image_picker": "shopify://shop_images/c-l-formal_bb80ddec-8a3f-422a-bd30-3da709d1c0c6.png",
+                "percent_item_setting": 70,
+                "b_r_image": 20
+              }
+            }
+          },
+          "block_order": [
+            "image_block_gWMhHK",
+            "image_block_FrX4Ni"
+          ]
+        },
+        "image_group_Uippmx": {
+          "type": "image-group",
+          "settings": {
+          },
+          "blocks": {
+            "image_block_fgbKME": {
+              "type": "image-block",
+              "settings": {
+                "image_picker": "shopify://shop_images/c-l-party_2dbc9936-1536-44c0-83a8-7941159f8bf2.png",
+                "percent_item_setting": 70,
+                "b_r_image": 20
+              }
+            },
+            "image_block_UVjAmW": {
+              "type": "image-block",
+              "settings": {
+                "image_picker": "shopify://shop_images/c-l-gym_7682830f-15e8-4daa-8bdd-234760e11c56.png",
+                "percent_item_setting": 30,
+                "b_r_image": 20
+              }
+            }
+          },
+          "block_order": [
+            "image_block_fgbKME",
+            "image_block_UVjAmW"
+          ]
+        }
+      },
+      "block_order": [
+        "text_block_3J39ML",
+        "image_group_g6nbb6",
+        "image_group_Uippmx"
+      ],
+      "settings": {
+        "color-bgr": "#f0f0f0"
+      }
+    },
+    "featured_review_aKUz3x": {
+      "type": "featured-review",
+      "blocks": {
+        "text_block_EULRwe": {
+          "type": "text-block",
+          "settings": {
+            "text": "",
+            "font_size": 16,
+            "font_weight": 400,
+            "text_color": "",
+            "text_position": "left",
+            "t_w": 50,
+            "p_y": 50
+          }
+        }
+      },
+      "block_order": [
+        "text_block_EULRwe"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main_banner_GHHeKg",
+    "featured_logo_En8LCF",
+    "featured_collection",
+    "featured_collection_ef6YF4",
+    "featured_collection_list_HMLpRD",
+    "featured_review_aKUz3x"
+  ]
+}

@@ -1,0 +1,25 @@
+<div>
+  {% content_for "blocks" %}
+</div>
+
+{% schema %}
+{
+  "name": "Feature Review",
+  "tag": "section",
+  "class": "feature-review",
+  "settings": [],
+  "blocks": [
+    {
+      "type": "review-block"
+    },
+    {
+      "type": "text-block"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Feature Review"
+    }
+  ]
+}
+{% endschema %}
